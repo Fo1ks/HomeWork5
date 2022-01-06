@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyAndroidHomework5th</string>
+    <string name="country_code_hint">Code</string>
+    <string name="city_hint">City</string>
+    <string name="search">Search</string>
+    <string name="location_name_template" translatable="false">%s, %s</string>
+    <string name="temperature_template">Temperature: %.2f°C</string>
+    <string name="humidity_template">Humidity: %d%%</string>
+    <string name="not_found_message">Not found</string>
+    <string name="invalid_input_massage">Invalid input</string>
+    <string name="forecast">Forecast</string>
+    <string name="name_app">WEATHER APP</string>
+
+</resources>
